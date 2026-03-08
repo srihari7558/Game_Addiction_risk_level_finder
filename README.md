@@ -33,6 +33,6 @@ Model Accuracy: ~69%
 ## How to Run
 
 1. Install dependencies
-
+   
 ## Live Demo
-https://gameaddictionrisklevelfinder.streamlit.app/
+[Open Web App](https://gameaddictionrisklevelfinder.streamlit.app/)
